@@ -1,0 +1,13 @@
+{
+    "name": "tech-tiles",
+    "version": "1.0.0",
+    "title": "Technicolor Lab Tiles",
+    "author": "travvo",
+    "homepage": "",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0",
+        "? space-age >= 2.0.0"
+    ],
+    "description": "Adds precise RGB valued lab tiles. Can adjust the number of tile colors (2^3, 3^3, 4^4, 5^3), as well as changing the recipe between 'just give it to me now' vs more realistic late-game item."
+}

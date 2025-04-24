@@ -9,7 +9,8 @@ This was originally developed as a supplement to the Factorio Printer project lo
 This is my first Factorio mod, and what I don't know about Factorio modding is basically everything. Please reach out if there's anything that needs obvious fixing, or if you are interested in collaborating or adding cross-mod functionality.
 
 on Reddit, /u/travvo
-on github, the-travvo
+
+github.com/the-travvo
 
 ## Localizations
 
